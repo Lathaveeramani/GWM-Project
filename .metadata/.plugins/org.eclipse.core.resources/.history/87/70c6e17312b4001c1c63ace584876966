@@ -1,0 +1,14 @@
+package gWM;
+
+public class Sample {
+	
+	public Sample(){
+		System.out.println();
+		
+	}
+public static void main(String[]args)
+{
+	Client s1 = new Client();
+	
+}
+}
